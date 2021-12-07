@@ -9,9 +9,9 @@
         ""
       ],
       "stopAtEntry": false,
-      "cwd": "d:/ปี 1 ภาคเรียนที่ 2/โปรแกรมมิ่ง/W9/PK654_LAB9",
+      "cwd": "d:/ปี 1 ภาคเรียนที่ 2/โปรแกรมมิ่ง/W9/PK654_LAB9-1",
       "environment": [],
-      "program": "d:/ปี 1 ภาคเรียนที่ 2/โปรแกรมมิ่ง/W9/PK654_LAB9/build/Debug/outDebug",
+      "program": "d:/ปี 1 ภาคเรียนที่ 2/โปรแกรมมิ่ง/W9/PK654_LAB9-1/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
       "miDebuggerPath": "C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/gdb.exe",
